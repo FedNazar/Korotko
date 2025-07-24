@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{DOCUMENT_ROOT}/$1 !-f
+RewriteRule ^([A-Za-z0-9]+)/?$ /redirect.html?id=$1 [R=302,L]

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korotko.API", "Korotko.API\Korotko.API.csproj", "{F1052CB2-0BF5-42C4-A173-B5BB8036E7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korotko.Application", "Korotko.Application\Korotko.Application.csproj", "{617AF8EA-0239-4B9A-B93E-E4A648B34686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korotko.Infrastructure", "Korotko.Infrastructure\Korotko.Infrastructure.csproj", "{EDC23874-12CE-46C6-8DE7-56079FE8D2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korotko.Domain", "Korotko.Domain\Korotko.Domain.csproj", "{9958CF35-CB29-4CEE-9AD1-3DBB30421E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1052CB2-0BF5-42C4-A173-B5BB8036E7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1052CB2-0BF5-42C4-A173-B5BB8036E7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1052CB2-0BF5-42C4-A173-B5BB8036E7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1052CB2-0BF5-42C4-A173-B5BB8036E7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617AF8EA-0239-4B9A-B93E-E4A648B34686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617AF8EA-0239-4B9A-B93E-E4A648B34686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617AF8EA-0239-4B9A-B93E-E4A648B34686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617AF8EA-0239-4B9A-B93E-E4A648B34686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC23874-12CE-46C6-8DE7-56079FE8D2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC23874-12CE-46C6-8DE7-56079FE8D2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC23874-12CE-46C6-8DE7-56079FE8D2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC23874-12CE-46C6-8DE7-56079FE8D2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9958CF35-CB29-4CEE-9AD1-3DBB30421E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9958CF35-CB29-4CEE-9AD1-3DBB30421E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9958CF35-CB29-4CEE-9AD1-3DBB30421E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9958CF35-CB29-4CEE-9AD1-3DBB30421E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
