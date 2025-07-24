@@ -3,6 +3,8 @@
 Simple link shortening service with backend based on ASP.NET Core Web API
 and frontend written in JS (without frameworks) and styled with Bootstrap.
 
+![Screenshot](Screenshot.png)
+
 ## Running locally
 
 ### API
